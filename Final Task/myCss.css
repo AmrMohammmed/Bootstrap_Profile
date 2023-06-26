@@ -1,0 +1,71 @@
+
+.example1 {
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888c5;
+  }
+  
+     .paraFont{
+        font-family: sans-serif;  color: rgba(0, 0, 0, 0.904);
+        font-size :15px;;
+  
+     }
+  .badge.bg-secondary {
+     background-color: #009688 !important;
+     font-size: medium; 
+     font-family: sans-serif;
+  } 
+  
+      .bottom-left {
+    position:absolute;
+  }
+  
+  .titles{
+      color: #009688;
+      font-family: sans-serif;
+      margin-left: 0%;
+      margin-top: 2%;
+      margin-bottom: 5%;
+      font-size: xx-large;
+    
+  
+  }
+  .iconSt{
+     color: #009688;
+      font-size: medium;
+      margin-bottom: 10px;
+      padding: 1%;
+      padding-bottom: 2%;
+  }
+  .fonty{
+      
+      color: rgba(0, 0, 0, 0.582);
+      font-family: sans-serif;
+      font-weight: normal;
+      white-space:pre;
+      font-size: medium;
+
+  
+  }
+  .skillFont{
+      color: rgba(0, 0, 0, 0.596);
+      font-size: medium;
+      line-height: 30pt;
+      font-weight: bolder;
+  
+  }
+  .pb{
+      font-size: small; 
+      background-color: #009688;
+  
+  }
+
+  .date{
+    white-space: pre; font-family: sans-serif;
+  }
+
+  .brands{
+    font-size: x-large; color: white;
+    display: inline-block;
+    padding-right: 0.5%;
+    
+  }
